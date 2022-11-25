@@ -1,0 +1,8 @@
+cd Documents/
+mkdir Spr_Git_Kacper_Młyńczak
+cd Spr_Git_Kacper_Młyńczak/
+git init
+touch info.txt
+git status
+git add .
+git commit -m "Rozpoczęcie projektu"
